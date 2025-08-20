@@ -4,14 +4,14 @@
     "author": "LevelUploader",
     "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "verification": "https://www.youtube.com/watch?v=TNBBdUS_QUM",
+    "percentToQualify": 12,
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "user": "Somguyfr500",
+            "link": "https://www.youtube.com/@somguy500",
+            "percent": 12.2,
             "hz": 360
         }
     ]
