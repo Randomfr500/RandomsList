@@ -1,9 +1,9 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "name": "Cybernic Tornado",
+    "author": "Somguyfr500",
+    "creators": ["None", "None", "None"],
+    "verifier": "Open Verification",
     "verification": "https://www.youtube.com/watch?v=TNBBdUS_QUM",
     "percentToQualify": 12,
     "password": "Free to copy",
@@ -12,7 +12,7 @@
             "user": "Somguyfr500",
             "link": "https://www.youtube.com/@somguy500",
             "percent": 12.2,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
