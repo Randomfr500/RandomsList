@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "Cybernic Tornado",
-    "author": "Somguyfr500",
+    "name": "Nine Circles Nerfed",
+    "author": "Randomfr500",
     "creators": ["None", "None", "None"],
-    "verifier": "Open Verification",
+    "verifier": "Verified by Randomfr500",
     "verification": "https://www.youtube.com/watch?v=TNBBdUS_QUM",
-    "percentToQualify": 12,
+    "percentToQualify": 82,
     "password": "Free to copy",
     "records": [
         {
-            "user": "Somguyfr500",
+            "user": "Randomfr500",
             "link": "https://www.youtube.com/@somguy500",
-            "percent": 12.2,
-            "hz": 60
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
