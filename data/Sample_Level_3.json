@@ -1,24 +1,18 @@
 {
     "id": 57436521,
-    "name": "Sigma",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
+    "name": "NIL",
+    "author": "NIL",
+    "creators": ["NIL"],
+    "verifier": "NIL",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "NIL",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
