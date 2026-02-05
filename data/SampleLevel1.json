@@ -3,15 +3,15 @@
     "name": "KNOWN",
     "author": "Randomfr500",
     "creators": ["Randomfr500"],
-    "verifier": "OPEN VERIFICATION",
+    "verifier": "Sylver",
     "verification": "https://www.youtube.com/watch?v=Zh1CRTAWA7w",
-    "percentToQualify": 12,
+    "percentToQualify": 32,
     "password": "Free to copy",
     "records": [
         {
             "user": "Randomfr500",
             "link": "https://www.youtube.com/@somguy500",
-            "percent": 12.2,
+            "percent": 34.5,
             "hz": 360
         }
     ]
