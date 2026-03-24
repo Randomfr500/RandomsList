@@ -8,5 +8,11 @@
     "percentToQualify": "45",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Randomfr500",
+            "link": "https://www.youtube.com/@somguy500",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
