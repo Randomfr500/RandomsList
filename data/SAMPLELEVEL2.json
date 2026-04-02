@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/@somguy500",
             "percent": 100,
             "hz": 180
+        },
+
+                  {
+            "user": "MaxyUK",
+            "link": "https://www.youtube.com/watch?v=8nygsSDtHcw",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
