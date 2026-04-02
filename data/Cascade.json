@@ -8,5 +8,11 @@
     "percentToQualify": 65,
     "password": "Free to copy",
     "records": [
+                  {
+            "user": "MaxyUK",
+            "link": "https://www.youtube.com/watch?v=8nygsSDtHcw",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
