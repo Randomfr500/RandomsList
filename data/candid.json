@@ -1,0 +1,18 @@
+{
+    "id": 139286162,
+    "name": "candid sentinal",
+    "author": "Bloxymaniac",
+    "creators": ["Bloxymaniac, sharkk4650"],
+    "verifier": "MaxyUK",
+    "verification": "https://www.youtube.com/watch?v=jXfZ6XrRl0s",
+    "percentToQualify": 45,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Randomfr500",
+            "link": "https://www.youtube.com/@somguy500",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
